@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LockWorkstation")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Lock Workstation")]
+[assembly: AssemblyDescription("A simple utility that will automatically lock your workstation when run")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LockWorkstation")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCompany("Keith Ott")]
+[assembly: AssemblyProduct("Lock Workstation")]
+[assembly: AssemblyCopyright("Copyright © Keith Ott 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
