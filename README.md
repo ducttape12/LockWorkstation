@@ -1,5 +1,5 @@
 <h1>LockWorkstation</h1>
-<p>A simple .NET application that will lock your workstation when run.</p>
+<p>A simple .NET application that will lock your workstation when run. Requires .NET 4.5.2.</p>
 
 <p>Why do you need this?  For example, if you have a slow loading computer that you wish to be locked on startup, you could set it to automatically log the user in, and then run LockWorkstation on startup.  Then, you background programs will continue to load while your computer is locked.</p>
 
